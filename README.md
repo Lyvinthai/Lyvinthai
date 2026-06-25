@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Lyvinthai, a Data Science Student.
+
+I can Data Cleaning, Data Visualise, Data Analyst and Beginner Friendly in Machine Learing.
+
+My main tech are Python, PostgreSQL,
 <!--
 **Lyvinthai/Lyvinthai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
