@@ -15,43 +15,32 @@ I’m a Python and Data Analyst who helps turn raw data into clean, meaningful i
 
 🛠 Tech Stack
 
-Languages
-  - Python
-  - SQL
-
-Libraries
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
+Languages                    Databases
+  - Python                       - PostgreSQL
+  - SQL                          - Relational Database Design
+    
+Libraries                    Tools
+  - Pandas                       - Git
+  - NumPy                        - GitHub
+  - Matplotlib                   - Jupyter Notebook
+  - Seaborn                      - VS Code
   - Plotly
   - Streamlit (Beginner)
 
-Databases
-  - PostgreSQL
-  - Relational Database Design
+🌟 Featured Project
 
-Tools
-  - Git
-  - GitHub
-  - Jupyter Notebook
-  - VS Code
+🛒 E-Commerce Data Analysis
+An end-to-end data analysis project exploring e-commerce sales data using Python and SQL.
 
-📂 Featured Projects
+What I did:
+  - Cleaned and transformed raw data with Pandas
+  - Performed exploratory data analysis (EDA)
+  - Wrote SQL queries to answer business questions
+  - Created visualizations to identify sales trends and customer behavior
+  - Generated actionable business insights
 
-+ Sales Data Analysis
-  - Cleaned thousands of records using Pandas
-  - Performed exploratory data analysis
-  - Created visualizations to identify sales trends
-
-+ SQL Business Analysis
-  - Designed a relational database
-  - Wrote analytical SQL queries using JOINs and GROUP BY
-  - Generated business reports from transactional data
-
-+ Visualization Project
-  - Built informative charts and dashboards
-  - Presented key insights using Python visualization libraries
+Skills Used:
+Python • Pandas • SQL • Data Cleaning • Data Visualization • EDA
 
 🎯 Currently Learning
   + Advanced SQL
