@@ -16,18 +16,17 @@
 ### 🛠 Tech Stack
 | Languages | Databases |
 | :---: | :---: |
-| - Python | - PostgreSQL | 
-| - SQL | - Relational Database Design |
+| Python | PostgreSQL | 
+| SQL | Relational Database Design |
 
-| left Alinged | Right Aligned |
-| :--- | ---: |
 | Libraries | Tools |
-| - Pandas | - Git |
-| - NumPy | - GitHub |
-| - Matplotlib | - Jupyter Notebook |
-| - Seaborn | - VS Code |
-| - Plotly |
-| - Streamlit (Beginner) |
+| :---: | :---: |
+| Pandas | Git |
+| NumPy | GitHub |
+| Matplotlib | Jupyter Notebook |
+| Seaborn | VS Code |
+| Plotly |
+| Streamlit (Beginner) |
 
 ## 🎯 Currently Learning
   - Advanced SQL
