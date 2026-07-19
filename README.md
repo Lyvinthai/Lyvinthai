@@ -14,9 +14,8 @@
   - 🧠 Solve programming problems using Data Structures and Algorithms
 
 ### 🛠 Tech Stack
-| left Alinged | Right Aligned |
-| :--- | ---: |
 | Languages | Databases |
+| :---: | :---: |
 | - Python | - PostgreSQL | 
 | - SQL | - Relational Database Design |
 
