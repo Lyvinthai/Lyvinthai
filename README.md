@@ -14,19 +14,14 @@
   - 🧠 Solve programming problems using Data Structures and Algorithms
 
 ### 🛠 Tech Stack
-| Languages | Databases |
-| :---: | :---: |
-| Python | PostgreSQL | 
-| SQL | Relational Database Design |
-
-| Libraries | Tools |
-| :---: | :---: |
-| Pandas | Git |
-| NumPy | GitHub |
-| Matplotlib | Jupyter Notebook |
-| Seaborn | VS Code |
-| Plotly |
-| Streamlit (Beginner) |
+| Languages |  | Libraries |  | Tools |
+| :---: |  | :---: | | :---: |
+| Python |  | Pandas | |  Git |
+| SQL |  | NumPy | | GitHub |
+| Databases | | Matplotlib | | Jupyter Notebook |
+| :---: | | Seaborn | |  VS Code |
+| PostgreSQL |  | Plotly |
+| Relational Database Design | | Streamlit (Beginner) |
 
 ## 🎯 Currently Learning
   - Advanced SQL
