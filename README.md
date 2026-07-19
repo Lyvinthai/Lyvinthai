@@ -6,12 +6,12 @@
 
   - Write Python scripts to automate repetitive tasks
   - Clean and preprocess messy datasets using Pandas
-  - 📊 Perform exploratory data analysis (EDA)
-  - 📈 Create clear visualizations with Matplotlib and Seaborn
-  - 🗄️ Design and query relational databases using SQL
-  - 🔍 Write complex SQL queries (JOINs, CTEs, Window Functions)
-  - 📑 Build reports and dashboards from business data
-  - 🧠 Solve programming problems using Data Structures and Algorithms
+  - Perform exploratory data analysis (EDA)
+  - Create clear visualizations with Matplotlib and Seaborn
+  - Design and query relational databases using SQL
+  - Write complex SQL queries (JOINs, CTEs, Window Functions)
+  - Build reports and dashboards from business data
+  - Solve programming problems using Data Structures and Algorithms
 
 ### 🛠 Tech Stack
 | Languages | Libraries | Tools | Databases |
@@ -23,7 +23,7 @@
 | | Plotly |
 | | Streamlit (Beginner) |
 
-## 🎯 Currently Learning
+### 🎯 Currently Learning
   - Advanced SQL
   - Power BI
   - Machine Learning
@@ -43,8 +43,9 @@ I’m available for:
 
 If you have a project or collaboration in mind, feel free to reach out.
 
-📫 Contact
+### 📫 Contact
   • GitHub: https://github.com/Lyvinthai
   • Email: lyvinthai.mao@outlook.com
+  • LinkedIn: www.linkedin.com/in/lyvinthai-mao-804412289
 
 Thanks for visiting my profile!
