@@ -36,7 +36,14 @@ I am a passionate Computer Science student driven by a curiosity for technology 
   - 🧠 Exploring data preprocessing, model training, and evaluation techniques
   - 🤖 Building beginner ML projects with TensorFlow and scikit-learn
   - 📊 Practicing with supervised learning algorithms and real-world datasets
+  
+# 📊 GitHub Stats:
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Lyvinthai&theme=dark&hide_border=false" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lyvinthai&theme=dark&hide_border=false&layout=compact" height="170" alt="Top Languages" />
+</p>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📬 Get in Touch
 
 - **LinkedIn**: www.linkedin.com/in/lyvinthai-mao-804412289
