@@ -19,14 +19,14 @@ I am a passionate Computer Science student driven by a curiosity for technology 
 ### Python Libraries
 
 <p>
-  <img src="https://cdn.simpleicons.org/pandas" height="48" alt="Pandas" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pandas_mark.svg" height="57.5" alt="Pandas" />
   <img src="https://cdn.simpleicons.org/numpy" height="48" alt="NumPy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" alt="Matplotlib" />
   <img src="https://worldvectorlogo.com/logos/seaborn-1.svg" height="48" alt="Seaborn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="48" alt="Plotly" />
+  <img src="https://cdn.brandfetch.io/idwPNp71Xw/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="48" alt="Plotly" />
   <img src="https://cdn.simpleicons.org/scikitlearn" height="48" alt="Scikit-learn" />
-  <img src="https://cdn.simpleicons.org/tensorflow" height="48" alt="Tensorflow" />
-  <img src="https://cdn.simpleicons.org/pytorch" height="48" alt="Pytorch" />
+  <img src="https://cdn.simpleicons.org/tensorflow" height="44" alt="Tensorflow" />
+  <img src="https://cdn.simpleicons.org/pytorch" height="44" alt="Pytorch" />
 </p>
 
 ## 🌱 Currently Exploring
