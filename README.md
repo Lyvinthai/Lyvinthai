@@ -5,9 +5,9 @@ I am a passionate Computer Science student driven by a curiosity for technology 
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing a **Bachelor's Degree in Computer Science**, specializing in **Software Engineering** & **Data Science**.
-- 💻 Interested in software development, data analytics, machine learning, and artificial intelligence.
-- 🌱 Currently exploring Machine Learning with TensorFlow and Scikit-Learn.
-- 🤝 Open to opportunities in related fields, including Data Analytics, Machine Learning Engineering, and Artificial Intelligence Engineering.
+- 💻 Interested in **Software Development**, **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**.
+- 🌱 Currently exploring **Machine Learning** with **TensorFlow** and **Scikit-Learn**.
+- 🤝 Open to opportunities in related fields, including **Data Analytics**, **Machine Learning Engineering**, and **Artificial Intelligence Engineering**.
   
 ## Tech Stack
 ### Languages & Tools
