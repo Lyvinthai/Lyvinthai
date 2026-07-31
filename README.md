@@ -37,6 +37,13 @@ I am a passionate Computer Science student driven by a curiosity for technology 
   - 🤖 Building beginner ML projects with TensorFlow and scikit-learn
   - 📊 Practicing with supervised learning algorithms and real-world datasets
   
+- 📈 **Improving Data Analytics**
+  - 🧹 Improving data cleaning and preprocessing techniques
+  - 📊 Performing exploratory data analysis (EDA)
+  - 🗄️ Designing and optimizing SQL schemas
+  - 🔍 Writing efficient SQL queries for data analysis
+  - 📑 Working with relational databases
+    
 ## 📊 GitHub Stats:
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Lyvinthai&theme=dark&hide_border=false" height="170" alt="GitHub Streak" />
