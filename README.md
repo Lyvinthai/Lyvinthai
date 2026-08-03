@@ -9,7 +9,7 @@ I am a passionate Computer Science student driven by a curiosity for technology 
 - 🌱 Currently exploring **Machine Learning** with **TensorFlow** and **Scikit-Learn**.
 - 🤝 Open to opportunities in related fields, including **Data Analytics**, **Machine Learning Engineering**, and **Artificial Intelligence Engineering**.
   
-## Tech Stack
+## 💻 Tech Stack
 ### Languages & Tools
 
 <p>
