@@ -13,7 +13,9 @@ I am a passionate Computer Science student driven by a curiosity for technology 
 ### Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,postgres" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### Python Libraries
