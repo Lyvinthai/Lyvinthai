@@ -1,4 +1,8 @@
-# Hi, I'm LYVINTHAI! 👋
+# Hi, I'm ... 👋
+
+<p align="center">
+  <img src="Beige Simple Elegant Personal LinkedIn Banner (1).gif" width="100%" height="200" alt="Banner" />
+</p>
 
 I am a passionate Computer Science student driven by a curiosity for technology and a desire to solve real-world problems. My journey involves exploring software engineering, data science, and machine learning while continuously expanding my knowledge through hands-on projects. I enjoy learning new technologies, building practical solutions, and sharing my experiences.
 
