@@ -49,10 +49,12 @@ I am a passionate Computer Science student driven by a curiosity for technology 
 ## 📊 GitHub Stats:
 <!-- Last updated: Mon Aug  3 04:34:05 UTC 2026 -->
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Lyvinthai&theme=dark&refresh=2&hide_border=false" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lyvinthai&theme=dark&hide_border=false&layout=compact" height="170" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Lyvinthai&theme=swift&hide_border=false&refresh=2)" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lyvinthai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
 </p>
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📬 Get in Touch
 
