@@ -51,7 +51,7 @@ I am a passionate Computer Science student driven by a curiosity for technology 
   - 📑 Working with relational databases
     
 ## 📊 GitHub Stats:
-<!-- Last updated: Mon Aug  3 18:52:03 UTC 2026 -->
+<!-- Last updated: Tue Aug  4 07:41:10 UTC 2026 -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Lyvinthai&theme=swift&hide_border=false&refresh=2)" height="170" alt="GitHub Streak" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lyvinthai&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
